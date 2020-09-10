@@ -17,6 +17,6 @@ Project done during the 4th Bachelor semester.
 
 ## Team
 
-* Jonas Freiburghaus [@JonasFreibs23](https://github.com/JonasFreibs23)
+* Jonas Freiburghaus [@JonasFreibur](https://github.com/JonasFreibur)
 * Romain Capocasale [@RomainCapo](https://github.com/RomainCapo)
 * Vincent Moulin [@dicksor](https://github.com/dicksor)
